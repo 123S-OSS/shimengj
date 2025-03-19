@@ -159,9 +159,7 @@
             </div>
             <div class="contact-item">
                 <i class="fas fa-phone"></i>
-                <a href="tel:+861234567890">+86 18788002347/a>
-            </div>
-        </section>
+                <a href="tel:+861234567890">+86 18788002347
     </div>
  
     <!-- 引入Font Awesome图标 -->
